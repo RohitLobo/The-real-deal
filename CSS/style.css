@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url("button.css");
+@import url("social.css");
+@import url("avatar.css");
+@import url("navbar.css");
+
+
+
+.back {
+background-image: url("../images/im4.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+color:#0b0500;
+height:100vh;
+
+}
+
+.container{
+margin:0 auto;
+width: 900px;
+justify-content: center;
+font-family: Oswald;
+
+}
+
+
+
+.banner{
+  width:1500px;
+  height:120px;
+  background-color: #C4D9E3;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.info{
+	justify-content: center;
+	text-align: center;
+
+	margin-top: 100px;
+	color:#607744;
+
+}
+
+
+
+
+
+@media (max-width: 992px) {
+  .container {
+    width: 700px;
+  }
+}
+
+@media (max-width: 768px){
+  .container {
+    width: 500px;
+  }
+}
+
+@media (max-width: 480px){
+  .container{
+    width:350px;
+
+

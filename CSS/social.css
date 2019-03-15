@@ -1,0 +1,29 @@
+.sociallinks{
+    justify-content: center;
+    width:200px;
+    font-size: 50px;
+    margin:auto;
+}
+
+.sociallinks2{
+    width:200px;
+    font-size: 50px;
+    margin-left:0px
+    
+
+
+}
+
+}
+
+#twit{
+  color:#1DA1F2;
+}
+
+#insta{
+  color:#000000;
+}
+
+#fm{
+  color:#B90000;
+}
