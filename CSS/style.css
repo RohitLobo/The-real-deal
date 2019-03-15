@@ -10,7 +10,6 @@
 .back {
 background-image: url("../images/im4.jpg");
 background-size: cover;
-background-repeat: no-repeat;
 background-position: center;
 color:#0b0500;
 height:100vh;
@@ -28,7 +27,7 @@ font-family: Oswald;
 .container-body{
   background-size: cover;
   background-position: center;
-  background-image: url(../images/im1.jpg);
+  background-image: url(../images/im6.jpg);
   height:auto;
   width:auto;
   font-family: Oswald;
@@ -40,7 +39,7 @@ font-family: Oswald;
 .banner{
   width:1500px;
   height:120px;
-  background-color: #C4D9E3;
+  background-color:#999999;
   align-items: center;
   display: flex;
   justify-content: space-between;
@@ -53,8 +52,17 @@ font-family: Oswald;
 	justify-content: center;
 	text-align: center;
 
-	margin-top: 100px;
-	color:#607744;
+	margin-top: 150px;
+	color:#56AA00;
+
+}
+
+.info2{
+  justify-content: center;
+  text-align: center;
+
+  margin-top: 100px;
+  color:black;
 
 }
 
@@ -78,5 +86,22 @@ font-family: Oswald;
 @media (max-width: 480px){
   .container{
     width:350px;
+}
 
+
+@media (max-width: 992px) {
+  .container-body {
+    width: 700px;
+  }
+}
+
+@media (max-width: 768px){
+  .container-body {
+    width: 500px;
+  }
+}
+
+@media (max-width: 480px){
+  .container-body{
+    width:350px;
 

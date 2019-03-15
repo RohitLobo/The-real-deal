@@ -14,35 +14,32 @@
 
 }
 
-.sociallinks2:hover{
 
-}
-
-#twit{
+#twit:hover{
   color:#1DA1F2;
  
 }
 
-#insta{
+#insta:hover{
   color:#000000;
   
 }
 
-#fm{
-  color:#B90000;
-  opacity: 7;
+#fm:hover{
+  color:#BA0000;
+  
 }
 
-#twit:hover{
-  opacity: 0.7;
+#twit{
+  opacity: 0.9;
  
 }
 
-#insta:hover{
+#insta{
   opacity: 0.5;
   
 }
 
-#fm:hover{
+#fm{
   opacity: 0.5;
 }
