@@ -3,7 +3,13 @@
 	width:125px;
 	align-items: center;
 	text-align:center;
-	border:solid;
+	
+
+}
+
+.avatar:hover{
+	opacity: 0.3;
+
 
 }
 

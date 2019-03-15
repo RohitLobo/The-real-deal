@@ -4,10 +4,9 @@
 .nav-bar{
   width:1360px;
   display:flex;
-  flex-grow: 1;
-  justify-content: space-between;
-  background-color: #E4E4E4;
-
+  align-items: center;
+  background-color: #86e7b8;
+  box-shadow: 0px -2px 10px rgba(0,0,0,0.3);
 }
 
 
@@ -38,13 +37,13 @@
 
 @media (max-width: 900px){
   .nav-bar {
-    width: 500px;
+    width: 800px;
   }
 }
 
-@media (max-width: 480px){
+@media (max-width:560px){
   .nav-bar{
-    width:350px; 
+    width:550px; 
   }
 }   
 
