@@ -3,6 +3,7 @@
 @import url("social.css");
 @import url("avatar.css");
 @import url("navbar.css");
+@import url("card.css");
 
 
 
@@ -24,7 +25,17 @@ font-family: Oswald;
 
 }
 
-
+.container-body{
+  background-size: cover;
+  background-position: center;
+  background-image: url(../images/im1.jpg);
+  height:auto;
+  width:auto;
+  font-family: Oswald;
+  display:flex;
+  justify-content: space-between;
+  padding-right: 200px;
+}
 
 .banner{
   width:1500px;
@@ -46,6 +57,7 @@ font-family: Oswald;
 	color:#607744;
 
 }
+
 
 
 
