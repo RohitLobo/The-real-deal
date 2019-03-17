@@ -37,7 +37,7 @@ font-family: Oswald;
 .banner{
   width:1500px;
   height:120px;
-  background-color:#999999;
+  background-color:#17b890;
   align-items: center;
   display: flex;
   justify-content: space-between;
@@ -101,18 +101,18 @@ font-family: Oswald;
 
 
 @media (max-width: 992px) {
-  .container-body {
+  .large-container {
     width: 700px;
   }
 }
 
 @media (max-width: 768px){
-  .container-body {
+  .large-container{
     width: 500px;
   }
 }
 
 @media (max-width: 480px){
-  .container-body{
+  .large-container{
     width:350px;
 
