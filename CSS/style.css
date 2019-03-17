@@ -25,14 +25,12 @@ font-family: Oswald;
 }
 
 .container-body{
-  background-size: cover;
-  background-position: center;
-  background-image: url(../images/im6.jpg);
+  
   height:auto;
   width:auto;
   font-family: Oswald;
   display:flex;
-  justify-content: space-between;
+  justify-content: space-around;
   padding-right: 200px;
 }
 
@@ -62,11 +60,14 @@ font-family: Oswald;
   text-align: center;
 
   margin-top: 100px;
-  color:#797a9e;
+  color:#17b890;
 
 }
 
-
+.large-container{
+  background-size: cover ;
+  background-position: center;
+}
 
 
 
