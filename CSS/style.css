@@ -16,13 +16,6 @@ height:100vh;
 
 }
 
-.container{
-margin:0 auto;
-width: 900px;
-justify-content: center;
-font-family: Oswald;
-
-}
 
 .container-body{
   
@@ -77,6 +70,8 @@ font-family: Oswald;
 .large-container{
   background-size: cover ;
   background-position: center;
+  width: auto;
+  height:auto;
 }
 
 
