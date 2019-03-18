@@ -17,6 +17,7 @@ height:100vh;
 }
 
 
+
 .container-body{
   
   height:auto;
@@ -30,7 +31,7 @@ height:100vh;
 .banner{
   width:1500px;
   height:120px;
-  background-color:#17b890;
+  background-color:#E4E7F0;
   align-items: center;
   display: flex;
   justify-content: space-between;
@@ -58,7 +59,7 @@ height:100vh;
 }
 
 .info2 a{
-  color:#17b890;
+  color:#f25757;
 
 }
 
