@@ -17,7 +17,13 @@ height:100vh;
 }
 
 
-
+.footer{
+  width:auto;
+  
+  text-align: center;
+  background-color: #fed766;
+  
+}
 .container-body{
   
   height:auto;
@@ -29,8 +35,8 @@ height:100vh;
 }
 
 .banner{
-  width:1500px;
-  height:120px;
+  width:auto;
+  height:auto;
   background-color:#E4E7F0;
   align-items: center;
   display: flex;

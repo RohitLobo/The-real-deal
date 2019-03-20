@@ -2,7 +2,7 @@
 
 
 .nav-bar{
-  width:1360px;
+  width:auto;
   display:flex;
   align-items: center;
   background-color: #E2E7EF;
