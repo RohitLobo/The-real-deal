@@ -33,7 +33,18 @@ height:100vh;
 
 .main-container {
   display: flex;
-  
+  flex-direction: row;
+
+}
+
+.body-container
+{
+ width:auto;
+ height: auto;
+ background-image: url('images/imtravel.jpg');
+ background-position: center;
+ background-size: cover;
+
 }
 
 
