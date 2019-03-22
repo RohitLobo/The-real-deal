@@ -17,6 +17,25 @@ height:100vh;
 
 }
 
+.aside {
+  flex: 0 0 200px;
+  height: 100vh;
+  background: rgba(249, 249, 249, 1.00);
+  flex-direction: column;
+  width:auto;
+  font-size: 20px;
+}
+
+.aside a:hover{
+  text-decoration: none;
+  color:#ED5E68; 
+}
+
+.main-container {
+  display: flex;
+  
+}
+
 
 .footer{
   width:auto;

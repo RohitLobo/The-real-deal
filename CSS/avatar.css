@@ -16,6 +16,7 @@
 .avatar-banner{
     display:flex;
     margin:auto;
+    align-items: center;
     }
 
 .avatar-banner h1{
