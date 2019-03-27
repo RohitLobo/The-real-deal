@@ -20,14 +20,14 @@
 
 .button:hover {
 	text-decoration: none;
-
-	opacity: 0.7;
+	color:white;
+	opacity: 0.9;
 }
 
 .button-nav{
 	text-align: center;
 	border-radius: 20px;
-	background-color: #E2E7EF;
+	background-color: #72B1F7;
 	color:#230903;
 	width:50px;
 	padding:20px;
@@ -39,8 +39,8 @@
 
 .button-nav:hover {
 	text-decoration: none;
-	color:#f25757;
-	opacity: 0.4;
+	color:#ED5E68;
+	opacity: 0.7;
 }
 
 	
