@@ -35,16 +35,21 @@ height:100vh;
   display: flex;
   flex-direction: row;
 
+
 }
 
 .body-container
 {
- width:auto;
- height: auto;
- background-image: url('images/imtravel.jpg');
+ display:flex;
+ flex-direction: row;
+ width:100%;
+ height: 100vh;
+ background-image:url('../images/imtravel.jpg');
  background-position: center;
  background-size: cover;
-
+ position: relative;
+ flex-grow:1;
+ justify-content: space-between;
 }
 
 
@@ -55,6 +60,8 @@ height:100vh;
   background-color: #fed766;
   
 }
+
+
 .container-body{
   
   height:auto;
@@ -92,7 +99,7 @@ height:100vh;
   justify-content: center;
   text-align: center;
 
-  margin-top: 100px;
+  margin-top:50px;
   
 
 }
